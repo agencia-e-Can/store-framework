@@ -1,0 +1,9 @@
+.sliderLayoutContainer--info-card-slider {
+    display: block;
+    max-width: 1260px;
+    margin: 20px auto 40px;
+    padding: 0;
+}
+.slideChildrenContainer--info-card-slider {
+    text-align: center;
+}
